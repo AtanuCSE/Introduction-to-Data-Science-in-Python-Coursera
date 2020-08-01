@@ -6,7 +6,7 @@ These codes are created for practise while doing the course.
 
 This Course is basically the starting block of data science. Very basic. Basics of python, pandas etc.
 
-{PlayGround codes are different samples that I tried or learned fron other resources}
+{PlayGround codes are different samples that I tried or learned from other resources}
 
 ## 01_Python_Basics
 *   Function Assignment
