@@ -75,3 +75,6 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   Copy function
 *   drop row problem (inplace=True)
 *   Pandas slicing problem
+
+## ~~08_Assignment2_Solve~~
+~~Won't upload the solution~~
