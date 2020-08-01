@@ -41,8 +41,6 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   Closures
 
 ## 05_Pandas_Series
-***Topics***
-
 *   Series
 *   NaN and None
 *   Dictionary in Pandas
