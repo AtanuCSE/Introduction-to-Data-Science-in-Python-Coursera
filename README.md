@@ -31,3 +31,9 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   Numpy
 *   List Comprehension
 *   Indexing / Slicing
+
+## 04_PlayGround_Lambda_Closure
+*   Lambda function
+*   Filter function
+*   Map function
+*   Closures
