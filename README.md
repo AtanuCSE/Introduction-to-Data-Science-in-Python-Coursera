@@ -39,3 +39,35 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   Filter function
 *   Map function
 *   Closures
+
+## 05_Pandas_Series
+***Topics***
+
+*   Series
+*   NaN and None
+*   Dictionary in Pandas
+*   Accessing Pandas Series
+    - iloc
+    - loc
+*   NP and Pandas Series together
+*   iteritems
+
+## 06_Pandas_DataFrame
+*   Series to DataFrame
+*   Access
+    - loc
+    - iloc
+*   Transpose Matrix
+*   **`Dataframe Indexing and Loading`**
+*   Modifying Column Name
+*   **`Query`**
+    - where
+    - Count
+    - **`dropna`**
+    - **`All rows with a condition on column`**
+*   Index Manipulation
+*   Unique Values
+*   Column Deletion
+*   Double Index
+*   Missing Values
+    - fillna
