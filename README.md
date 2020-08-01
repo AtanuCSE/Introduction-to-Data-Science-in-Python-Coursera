@@ -69,3 +69,9 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   Double Index
 *   Missing Values
     - fillna
+    
+## 07_PlayGround_Pandas
+*   Chained Indexing
+*   Copy function
+*   drop row problem (inplace=True)
+*   Pandas slicing problem
