@@ -78,3 +78,10 @@ This Course is basically the starting block of data science. Very basic. Basics 
 
 ## ~~08_Assignment2_Solve~~
 ~~Won't upload the solution~~
+
+## 09 Pandas_Merge
+*   Merge / Join
+    - outer, inner, left, right
+    - join based on normal column (NOT INDEX / Key)
+    - Same Column name (not key)
+    - Based on two KEY
