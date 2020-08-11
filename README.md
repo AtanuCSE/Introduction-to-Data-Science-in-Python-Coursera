@@ -79,9 +79,29 @@ This Course is basically the starting block of data science. Very basic. Basics 
 ## ~~08_Assignment2_Solve~~
 ~~Won't upload the solution~~
 
-## 09 Pandas_Merge
+## 09_Pandas_Merge
 *   Merge / Join
     - outer, inner, left, right
     - join based on normal column (NOT INDEX / Key)
     - Same Column name (not key)
     - Based on two KEY
+
+## 10_Pandas_Operation_GropBy
+*   Keep Rows with Specific Value
+    - Where Function
+*   Column Rename
+*   Find Min/Max from Multiple Column
+    - ApplyMap
+*   GroupBy
+    - Using Loop
+    - **Using Agg function**
+    - Multiple agg function on Single Column
+    - Multiple agg function on Multiple Columns
+
+## 11_Pandas_Scale_Categorical_Data
+*   Define Own Category on Columns Data
+    - (Example: A+ is higher than A)
+    - Usage of Categorical Data
+*   **CUT Fuction**
+    - Divide data into several bin like histogram
+    - Example: There are 100 numbers. If we want to divide them in **N** category?
