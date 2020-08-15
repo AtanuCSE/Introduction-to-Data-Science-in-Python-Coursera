@@ -105,3 +105,6 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   **CUT Fuction**
     - Divide data into several bin like histogram
     - Example: There are 100 numbers. If we want to divide them in **N** category?
+    
+## ~~13_Assignment3_Solve~~
+~~Won't upload the solution~~
