@@ -114,3 +114,10 @@ This Course is basically the starting block of data science. Very basic. Basics 
     
 ## ~~13_Assignment3_Solve~~
 ~~Won't upload the solution~~
+
+## 14_Hypothesis_Testing
+
+*   Basic **Hypothesis** Testing
+    - Date-wise Dataset Breaking
+    - Numeric Column-wise Function (e.g.: mean,sum, etc.)
+    - ttest_ind Test from Scipy library
