@@ -105,6 +105,12 @@ This Course is basically the starting block of data science. Very basic. Basics 
 *   **CUT Fuction**
     - Divide data into several bin like histogram
     - Example: There are 100 numbers. If we want to divide them in **N** category?
+
+## 12_Pandas_Pivot_Table
+
+*   Pivot Table single/multiple function
+
+    (Example: How to calculate year-wise mean of Kilowatt for each car type)
     
 ## ~~13_Assignment3_Solve~~
 ~~Won't upload the solution~~
