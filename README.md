@@ -2,9 +2,9 @@
 ## Offered by University of Michigan
 [Course Link](https://www.coursera.org/learn/python-data-analysis/)
 
-These codes are created for practise while doing the course.
+These codes are created for practise while doing the course. All codes are developed using **Google Colab**
 
-This Course is basically the starting block of data science. Very basic. Basics of python, pandas etc.
+This Course is basically the starting block of data science. Very basic. Basics of python, **pandas** etc.
 
 {PlayGround codes are different samples that I tried or learned from other resources}
 
